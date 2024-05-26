@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # class_work_11
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# class-work-11
+>>>>>>> 81ee75d5451c47df93035512f14cd7496db2e812
